@@ -8,7 +8,7 @@
 
 <br/>
 <br>
- <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/c75623c4-17c1-4438-9ca7-27aaf5f8b54c" />
+ <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c75623c4-17c1-4438-9ca7-27aaf5f8b54c" />
 </br>
 
 [![GitHub followers](https://img.shields.io/github/followers/MaryamBouchhar?style=for-the-badge&color=7EC8E3&labelColor=1a1a2e&logo=github&label=Followers)](https://github.com/MaryamBouchhar?tab=followers)
