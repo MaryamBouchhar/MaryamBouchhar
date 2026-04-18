@@ -190,7 +190,7 @@ A clean Android app for tracking and managing credit records in real time.
 <a href="https://github.com/MaryamBouchhar">
   <img src="https://img.shields.io/badge/GitHub-D0E8FF?style=for-the-badge&logo=github&logoColor=1a1a2e"/>
 </a>
-<a href="www.linkedin.com/in/maryam-bouchhar-25608a226">
+<a href="https://www.linkedin.com/in/maryam-bouchhar-25608a226/">
   <img src="https://img.shields.io/badge/LinkedIn-D0E8FF?style=for-the-badge&logo=linkedin&logoColor=1a1a2e"/>
 </a>
 
