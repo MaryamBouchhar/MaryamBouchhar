@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=7EC8E3&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+%F0%9F%A4%96;full+stack+AI+%F0%9F%9A%80;Data+Science+%7C+Web+Dev+%7C+AI+Engineering+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 <br/>
 <br>
- <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/c75623c4-17c1-4438-9ca7-27aaf5f8b54c" />
+ <img width="700" height="500" alt="image" src="https://lottie.host/embed/b34078b5-fb44-46e6-aad1-b49bb6050834/pLmSNFtu4b.lottie" />
 </br>
 
 [![GitHub followers](https://img.shields.io/github/followers/MaryamBouchhar?style=for-the-badge&color=7EC8E3&labelColor=1a1a2e&logo=github&label=Followers)](https://github.com/MaryamBouchhar?tab=followers)
